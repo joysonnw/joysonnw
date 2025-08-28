@@ -4,7 +4,6 @@
 ## About Me
 - Undergraduate student in Artificial Intelligence and Machine Learning  
 - Interested in machine learning, computer vision, and data analysis  
-- Looking for opportunities to gain real-world experience through internships and projects  
 ## Skills
 - **Languages:** Python, C  
 - **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, OpenCV, Flask, Streamlit  
