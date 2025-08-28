@@ -1,6 +1,6 @@
 
   ![@joyson #30NitesOfCode](https://www.codedex.io/api/petStatus?user=joyson)
-# Hi, I'm Joyson N W
+# Hi, I'm Joyson
 ## About Me
 - Undergraduate student in Artificial Intelligence and Machine Learning  
 - Interested in machine learning, computer vision, and data analysis  
