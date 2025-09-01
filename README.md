@@ -10,5 +10,5 @@
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, GitHub, Jupyter, VS Code  
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/joyson-n-w-3844b3325/
+- LinkedIn: www.linkedin.com/in/nwjoyson
 - Email: nwjoyson@gmail.com  
